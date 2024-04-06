@@ -1,0 +1,88 @@
+{
+  "seller": [
+    {
+      "name": "Mahesh",
+      "email": "mahesh@gmail.com",
+      "password": "abc@123",
+      "id": "1"
+    },
+    {
+      "name": "Rush",
+      "email": "rushi@gmail.com",
+      "password": "abc@123",
+      "id": "2"
+    },
+    {
+      "name": "vishnu",
+      "email": "vishnu@gmail.com",
+      "password": "abc@123",
+      "id": "3"
+    },
+    {
+      "id": "1545",
+      "name": "",
+      "password": "",
+      "email": ""
+    },
+    {
+      "id": "120f",
+      "name": "",
+      "password": "",
+      "email": ""
+    },
+    {
+      "id": "92d1",
+      "name": "",
+      "password": "",
+      "email": ""
+    },
+    {
+      "id": "76ab",
+      "name": "Mahesh Dinkar Pawar",
+      "password": "1234",
+      "email": "mahesh@gmail.com"
+    },
+    {
+      "id": "f19e",
+      "name": "Mahesh Dinkar Pawar",
+      "password": "1234",
+      "email": "mahesh@gmail.com"
+    },
+    {
+      "id": "21ee",
+      "name": "Mahesh Dinkar Pawar",
+      "password": "12345",
+      "email": "mahesh@gmail.com"
+    },
+    {
+      "id": "435b",
+      "name": "",
+      "password": "",
+      "email": ""
+    },
+    {
+      "id": "c338",
+      "name": "Mahesh",
+      "password": "123456",
+      "email": "mahesh@gmail.com"
+    },
+    {
+      "id": "3aea",
+      "name": "",
+      "password": "",
+      "email": ""
+    },
+    {
+      "id": "0103",
+      "name": "sneha",
+      "password": "123456",
+      "email": "sneha@gmail.com"
+    },
+    {
+      "id": "2e09",
+      "name": "",
+      "password": "",
+      "email": ""
+    }
+  ]
+}
